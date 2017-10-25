@@ -1,0 +1,9 @@
+Monde insa
+Piece chambre
+Piece bureau
+Piece cave
+Porte porte1 chambre bureau
+PorteSerrure porte2 bureau cave
+Clef porte2 chambre
+JoueurHumain Etudiant 10 10 chambre
+ConditionDeFinVivantDansPiece ECHEC Etudiant cave
